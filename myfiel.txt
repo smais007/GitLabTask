@@ -1,0 +1,5 @@
+GitHub Lab Task
+
+This is my first Git and GitHub lab task.
+I am learning how to create repositories, commit changes, and push files to GitHub.
+This file was created to practice correcting a file name using Git.
