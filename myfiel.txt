@@ -1,5 +1,28 @@
+
 GitHub Lab Task
 
-This is my first Git and GitHub lab task.
-I am learning how to create repositories, commit changes, and push files to GitHub.
-This file was created to practice correcting a file name using Git.
+Introduction:
+Git and GitHub are important tools for software development. Git helps developers track changes in files, while GitHub allows them to store and share their projects online.
+
+Objective:
+The main objective of this lab task is to learn how to create a GitHub repository, clone it to a local computer, add files, commit changes, and push updates to GitHub.
+
+Working Process:
+First, I created a new repository named GitLabTask on GitHub. Then, I cloned the repository to my local computer and opened the project folder.
+
+Next, I created a text file with an incorrect file name to practice fixing mistakes. I added some basic information about Git and GitHub to the file and pushed it to the remote repository.
+
+After that, I checked the repository on GitHub to confirm that the incorrectly named file had been uploaded successfully. Then, I renamed the file to its correct name and committed the changes.
+
+Finally, I pushed the corrected version to GitHub and pulled the latest changes to verify that my local repository was up to date.
+
+Learning Outcomes:
+1. Learned how to create and clone a GitHub repository.
+2. Practiced creating and editing text files.
+3. Learned how to rename a file using Git.
+4. Understood how to commit changes and push them to GitHub.
+5. Learned how to pull the latest changes from a remote repository.
+6. Understood the importance of checking file names and tracking changes.
+
+Conclusion:
+This lab task helped me understand the basic workflow of Git and GitHub. I learned how to correct a file naming mistake and update the repository with the correct version. These skills will help me manage files and collaborate with others in future software development projects.
